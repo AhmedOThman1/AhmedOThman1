@@ -2,6 +2,7 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 <h2 align= "center"><b>I look forward to absorbing knowledge🧠, gain experience👨‍🏭, collaborate🤝 , and build amazing products 🏭for the world🌍!</b></h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedOThman1&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedOThman1" /> </p>
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">

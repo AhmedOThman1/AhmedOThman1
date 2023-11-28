@@ -1,26 +1,38 @@
-<h1 align= "center"><b>Hey there🙋‍♂️👋, I am Ahmed Othman</b></h1>
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
-<h2 align= "center"><b>I look forward to absorbing knowledge🧠, gain experience👨‍🏭, collaborate🤝 , and build amazing products 🏭for the world🌍!</b></h2>
+<h1 align="center">Hey there 👋, I'm Ahmed Othman</h1>
+<h3 align="center">A passionate Software Engineer | Competitive Programmer | Android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedOThman1&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedOThman1" /> </p>
+- 🌱 I’m currently  **looking for a job opportunity**
 
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+- 💬 Ask me about **Data Structure, Algorithms, Android Development, and Hardware Technology**
 
-  <a href="https://www.linkedin.com/in/ahmed-osman-463a99158/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100004127731103" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
+- 📫 How to reach me **AhmedOthman8121@gmail.com**
 
-   <a href="mailto:ao41866@gmail.com" mailto="ao41866@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  
-  <a href="https://www.freelancer.com/u/AhmedOthman3599" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>
+- 📄 Know about my experiences [my resume](https://bit.ly/AhmedOthmanResume)
 
-</div>
+<br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedothman1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedothman1" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-othman-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-othman-" height="30" width="40" /></a>
+<a href="https://www.behance.net/ahmedosman79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedosman79" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ao41866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ao41866" height="30" width="40" /></a>
+<a href="https://fb.com/ahmedothman1722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedothman1722" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

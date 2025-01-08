@@ -1,3 +1,6 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
+
 <h1 align="center">Hey there 👋, I'm Ahmed Othman</h1>
 <h3 align="center">A passionate Software Engineer | Competitive Programmer | Android developer</h3>
 

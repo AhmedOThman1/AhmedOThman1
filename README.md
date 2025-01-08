@@ -16,6 +16,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedothman1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedothman1" /> </p>
+<img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg" alt="StandWithPalestine">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
